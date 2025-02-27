@@ -1,1 +1,9 @@
 streamlit
+pyairtable
+requests
+stripe
+python-dateutil
+plotly
+fpdf
+streamlit-autorefresh
+pdfplumber
